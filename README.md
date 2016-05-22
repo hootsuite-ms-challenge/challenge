@@ -1,4 +1,4 @@
-Hotsuite Microservice Challenge
+Hootsuite Microservice Challenge
 ================================
 
 
